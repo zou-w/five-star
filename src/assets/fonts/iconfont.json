@@ -1,0 +1,16 @@
+{
+  "id": "1691968",
+  "name": "five_four",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "五四之星评选系统",
+  "glyphs": [
+    {
+      "icon_id": "5924471",
+      "name": "投票",
+      "font_class": "toupiao",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    }
+  ]
+}
